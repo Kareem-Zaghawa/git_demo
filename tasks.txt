@@ -1,6 +1,6 @@
 Done1: Perform Data preprocessing
 In Progress: Perform Modeling
-TODO: Evaluate Model
+In Progress: Evaluate Model 50%
 
 Developers:
 Developer1
