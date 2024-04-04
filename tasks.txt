@@ -1,10 +1,8 @@
 Done1: Perform Data preprocessing
 In Progress: Perform Modeling
-In Progress: Evaluate Model - Build a custom accuracy for classification problem)
+In Progress: Evaluate Model - builidng custom accuracy for regression model
 
 Developers:
 Developer1
 Yet Another Developer1
 Developer3
-
-change to be undone
