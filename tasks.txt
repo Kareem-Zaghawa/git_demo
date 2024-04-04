@@ -1,6 +1,6 @@
 Done1: Perform Data preprocessing
 In Progress: Perform Modeling
-In Progress: Evaluate Model 50%
+In Progress: Evaluate Model - Build a custom accuracy for classification problem)
 
 Developers:
 Developer1
